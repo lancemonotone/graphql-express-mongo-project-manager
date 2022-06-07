@@ -1,10 +1,14 @@
+import Header from './components/Header'
 
 function App() {
-  return (
-    <div className="container">
-        <h1 className="navbar-brand">Hello <span>World</span>!</h1>
-    </div>
-  );
+    return (
+        <>
+            <Header/>
+            <div className="container">
+                <h1>Hello World</h1>
+            </div>
+        </>
+    )
 }
 
-export default App;
+export default App

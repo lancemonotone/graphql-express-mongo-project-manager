@@ -1,3 +1,4 @@
+@import '~bootstrap/scss/bootstrap';
 
 body {
   margin: 0;
@@ -14,10 +15,7 @@ code {
 }
 
 .navbar-brand {
-  color: #df3ca6;
-  span{
-    color: cadetblue;
-  }
+  color: #df3ca3;
 }
 
 .navbar-brand img {

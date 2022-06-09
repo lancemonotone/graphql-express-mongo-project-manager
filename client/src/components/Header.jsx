@@ -5,11 +5,9 @@ const Header = () => {
         <div>
             <nav className="navbar bg-light mb-4 p-0">
                 <div className="container">
-                    <a href="/" className="navbar-brand">
-                        <div className="d-flex">
-                            <img src={logo} alt="GraphQL logo"/>
-                            <div>Project Management</div>
-                        </div>
+                    <a href="/" className="navbar-brand d-flex">
+                        <img src={ logo } alt="GraphQL logo"/>
+                        Project Management
                     </a>
                 </div>
             </nav>

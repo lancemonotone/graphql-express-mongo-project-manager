@@ -7,4 +7,4 @@ https://youtu.be/BcLNfwF04Kw
 Project manager app built with ReactJs, GraphQL, Express Server, MongoDB, using Bootstrap, Mongoose, Apollo Client. 
 
 Credit: Traversy Media (https://youtu.be/BcLNfwF04Kw)
->>>>>>> origin/main
+>>>>>>>>> # <center>:)</center>
